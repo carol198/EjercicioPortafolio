@@ -1,1 +1,17 @@
-/* Inserta tu codigo CSS aqui */
+.salto{
+	width: 50px;
+	border top: none;
+	border-bottom:#FB8719 solid 3px;
+}
+.icon{
+	text-align: center;
+	color: #494545;
+}
+.email{
+	color: #FB8719;
+}
+.btn{
+	margin-left: 230px;
+	border-radius: 20px;
+	font-size: 15px;
+}
