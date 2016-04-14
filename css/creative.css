@@ -2,7 +2,7 @@
 header{
 	background-image: url(../img/header.jpg);
 	background-size: cover;
-	height: 500px;
+	height: 600px;
 	background-repeat: no-repeat;
 }
 .parrafoC{
@@ -15,8 +15,10 @@ header{
 	border-bottom: #FB8719 solid 5px;
 	border-top: none;
 }
-.btnConoce{
+.parrafoC button{
 	border-radius: 10px;
 	background-color: #FB8719;
-	margin-top: 0px;
+}
+.btnD{
+	margin-bottom: 500px;
 }
