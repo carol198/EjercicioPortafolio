@@ -15,3 +15,8 @@ header{
 	border-bottom: #FB8719 solid 5px;
 	border-top: none;
 }
+.btnConoce{
+	border-radius: 10px;
+	background-color: #FB8719;
+	margin-top: 0px;
+}
