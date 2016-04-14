@@ -1,1 +1,17 @@
 /* Inserta tu codigo CSS aqui */
+header{
+	background-image: url(../img/header.jpg);
+	background-size: cover;
+	height: 500px;
+	background-repeat: no-repeat;
+}
+.parrafoC{
+	color:white;
+	padding: 120px;
+	margin: 0px;
+}
+.parrafoC hr{
+	width: 5%;
+	border-bottom: #FB8719 solid 5px;
+	border-top: none;
+}
