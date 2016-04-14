@@ -1,1 +1,36 @@
-/* Inserta tu codigo CSS aqui */
+.col-md-12 {
+	text-align: center;
+}
+
+.navbar-title {
+	font-size: 4vh;
+}
+
+.separate {
+	 border-bottom: #FB8719 solid 4px;
+	 border-top: none;
+	 width: 4%;
+}
+
+.icons h3, p { 
+	color: #808080; 
+}
+
+.icons {
+	text-align: center;
+}
+.icons i {
+	font-size: 40px;
+	color: #F0804F;
+	margin-bottom: 13px;
+}
+
+.icons h3 {
+	font-size: 16px;
+	font-family: Helvetica;
+}
+
+.icons p {
+	font-size: 10px;
+	margin-top: 8px;
+}
